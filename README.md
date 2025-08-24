@@ -1,2 +1,2 @@
 # Cybersecurity-practise
-My cybersecurity practice labs, notes, and reports
+This repository showcases my practice work in cybersecurity, including lab notes and experiments with tools such as Nmap, Wireshark, Metasploit, Burp Suite, OWASP ZAP, DVWA, and more. I created this repo to track my learning from both my B.Sc. (Hons.) Computer Science coursework and my certified cybersecurity course. It reflects my hands-on experience in scanning, exploitation, and vulnerability assessment.
